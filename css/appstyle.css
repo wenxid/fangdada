@@ -1,0 +1,25 @@
+body { padding: 50px 0px; }
+.tit-name {margin-left:60px;}
+.th{background:#da314b;}
+.th .navbar-brand {color:#FFF; padding-right:0px;}
+.tit {width:75%; color:#FFF;}
+.tit2 {width:95%; color:#FFF;}
+.bo0 { border:0px; height:30px; border-radius: 0; font-size:14px;}
+.mp0 {margin:0px; padding:0px; height:30px;}
+.bradius0 { border-radius: 0;}
+.0list-group-item {height:180px;}
+.shuju span {margin:0px 20px 0px 0px; font-size:12px;}
+.marb10 {margin-bottom:10px;}
+
+.houselist p {margin-bottom:10px;}
+.houselist a {height:210px;}
+.shuju {margin-bottom:10px;}
+.houseinfo {margin-top:10px;}
+.houseinfo .row {margin-bottom:10px;}
+.hi-cs {width:33%; float:left; text-align:center; margin-top:5px; font-size:12px;}
+.r-line {border-right:#ccc solid 1px}
+.xm-xx {line-height:30px;}
+.mp0 {margin:0px; padding:0px;}
+.us-add *{ height:30px;}
+.us-add input{ height:50px;}
+.us-list tr{ height:25px;}
